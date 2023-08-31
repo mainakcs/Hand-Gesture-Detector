@@ -31,3 +31,6 @@ pip install keras==2.9.0
 pip install matplotlib==3.6.1
 pip pyserial
 </pre>
+
+
+3.Then just run the test.py python file
