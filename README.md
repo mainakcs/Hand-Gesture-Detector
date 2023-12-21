@@ -1,5 +1,5 @@
 # Hand-Sign-Language-Recognition
-It is a AI based Computer Vision software that detects all the Hand gestures in ASL (American Sign Language) 
+It is a AI based Computer Vision software that recognises all the different Hand gestures in ASL (American Sign Language) 
 
 ## On Windows System -
 1. First Install python 3.7.9
