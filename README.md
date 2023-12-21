@@ -1,4 +1,4 @@
-# Hand-Sign-Language-Recognition
+# Hand-Sign-Language-Recognizer
 It is a AI based Computer Vision software that recognises all the different Hand gestures in ASL (American Sign Language) 
 
 ## On Windows System -
